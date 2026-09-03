@@ -1,4 +1,4 @@
-	# ECE2112_PA2
+# ECE2112_PA2
 
 Created by: Jasmine Marie P. Montillana | 2ECE-B
 
